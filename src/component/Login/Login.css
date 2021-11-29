@@ -1,0 +1,28 @@
+custom-form{
+    margin-bottom: 500px;
+}
+
+.form-box {
+    border: 1px solid gray;
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:whitesmoke;
+}
+
+.signIn-btn {
+    width: 400px;
+    border-radius: 20px;
+}
+
+.signIn-btn img{
+    width: 25px;
+}
+.user-form{
+    display: flex;
+    justify-content: center;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+}

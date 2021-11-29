@@ -1,0 +1,21 @@
+.service-detail{
+    background-color:darkmagenta;
+    color: white;
+    border-radius:15px;
+}
+.service-detail .icon{
+    width: 25px;
+    height: 25px;
+}
+.service-detail-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.service-info{
+    background-color:#0a272b;
+}
+.service-info .service-description{
+    color:white;
+}
